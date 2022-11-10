@@ -2,22 +2,13 @@
 
 NOTE: To decrease the size of git repository, it will be pushed by force!!!
 
--------------2022.8.9
+-------------2022.11.10  
 There are two packages for the  CoreRoot which both compiled based on
-the commit b8ffae56d3269050ec84551fad44835536deffb3
+the commit d71038af9b49acb72140c105c90b765e9338741b  
 within the https://github.com/dotnet/runtime/
 
-* Linux.loongarch64.Debug0809.tar.xz
-* Linux.loongarch64.Release0809.tar.xz
-
--------------2022.8.2  
-There are two packages for the  CoreRoot which both compiled based on  
-the commit bb178a843456b5febb810f5246454108c3020f67 and merged #73205 and #72572  
-within the https://github.com/dotnet/runtime/
-
-* Linux.loongarch64.Debug0802.tar.xz
-* Linux.loongarch64.Release0802.tar.xz
-
+* Core_Root8.0_Debug1110.tar.xz
+* Core_Root8.0_Release1110.tar.xz
 
 **NOTE:**
 This CoreRoot doesn't contain the coreclr's native part.

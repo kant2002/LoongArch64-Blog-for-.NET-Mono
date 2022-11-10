@@ -4,15 +4,15 @@ Record or  publish the progress schedule for porting the .NET/Mono on LoongArch6
 
 ## CoreRoot compiled based on the branch of.NET7-main
 **NOTE: To decrease the size of git repository, it will be pushed by force overwrite!!!**  
--------------2022.8.9  
+-------------2022.11.10  
 It will be updated quickly within the sub-directory ["rumtime_main_CoreRoot"](https://github.com/shushanhf/LoongArch64-Blog-for-.NET-Mono/tree/main/rumtime_main_CoreRoot).  
 In principle every weekday.  
 **NOTE: To decrease the size of git repository, it will be pushed by force overwrite!!!**  
 
 ## .NET6-Loongarch64-Porting
--------------2022.6.17
-* .NET6-LoongArch64 had been published with the version SDK6.0.5,  [Download](http://www.loongnix.cn/zh/api/dotnet/)
-* The SDK6.0.7 had been finished and will be published soon.
+-------------2022.11.10  
+* .NET6-LoongArch64 had been published with the version SDK6.0.10,  [Download](http://www.loongnix.cn/zh/api/dotnet/)
+* The SDK6.0.11 had been finished and will be published soon.
 
 
 ## Mono6.13-LoongArch64-Porting
